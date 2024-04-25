@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PriyaanG
+- 👀 I’m interested in javascript currently.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on a chatting app named Chat Rocketspace.
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I like coding
