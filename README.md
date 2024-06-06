@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PriyaanG
-- 👀 I’m interested in javascript currently.
+- 👋 Hi, I’m @PriyaanG 
+- 👀 I'm interested in working with other people on open source projects!
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on a chatting app named Chat Rocketspace.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like coding
+- 📫 You can reach me at github.quail334@passinbox.com
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: I can code in HTML, CSS and JS.
