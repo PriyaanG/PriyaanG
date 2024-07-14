@@ -2,6 +2,5 @@
 - 👀 I'm interested in working with other people on open source projects!
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on a chatting app named Chat Rocketspace.
-- 📫 You can reach me at github.compile064@aleeas.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I can code in HTML, CSS and JS.
